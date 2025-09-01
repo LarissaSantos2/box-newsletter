@@ -17,7 +17,11 @@ Praticar **design de formulários** e criar uma experiência amigável para o us
 
 ## 👀 Como Visualizar
 1. Clone o repositório ou baixe os arquivos.  
-2. Abra o arquivo `index.html` em qualquer navegador.  
+2. Acesse diretamente pelo link em qualquer navegador:
+
+```bash
+https://larissasantos2.github.io/box-newsletter/
+
 
 ## 🔗 Observações
 - Não há backend integrado; este projeto foca apenas na interface.
