@@ -15,6 +15,10 @@ A caixa de inscrição é simples, funcional e visualmente agradável, com foco 
 ## 🎯 Objetivo
 Praticar **design de formulários** e criar uma experiência amigável para o usuário ao se inscrever em newsletters.
 
+
+## 🔗 Observações
+- Não há backend integrado; este projeto foca apenas na interface.
+
 ## 👀 Como Visualizar
 1. Clone o repositório ou baixe os arquivos.  
 2. Acesse diretamente pelo link em qualquer navegador:
@@ -22,6 +26,3 @@ Praticar **design de formulários** e criar uma experiência amigável para o us
 ```bash
 https://larissasantos2.github.io/box-newsletter/
 
-
-## 🔗 Observações
-- Não há backend integrado; este projeto foca apenas na interface.
